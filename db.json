@@ -1,0 +1,83 @@
+{
+  "tatuagens": [
+    {
+      "id": 1,
+      "tipoTatoo": "tribal",
+      "tamanhoTatoo": "15cm",
+      "preçoTatoo": "150.00",
+      "fotoTatoo": "https://img.myloview.com.br/adesivos/tatuagens-tribais-elemento-de-design-tatuagem-tribal-da-arte-700-85077031.jpg"
+    },
+    {
+      "tipoTatoo": "tribal",
+      "tamanhoTatoo": "20cm",
+      "preçoTatoo": "250.00",
+      "fotoTatoo": "https://img.myloview.com.br/fotomurais/tatuagens-tribais-elemento-de-design-tatuagem-tribal-da-arte-700-84900029.jpg",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "tipoTatoo": "tribal",
+      "tamanhoTatoo": "20cm",
+      "preçoTatoo": "125.00",
+      "fotoTatoo": "https://st3.depositphotos.com/1009754/14520/v/600/depositphotos_145202345-stock-illustration-tribal-designs-tribal-tattoos-art.jpg"
+    },
+    {
+      "id": 4,
+      "tipoTatoo": "tribal",
+      "tamanhoTatoo": "5cm",
+      "preçoTatoo": "50.00",
+      "fotoTatoo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPDDnCjzGYeqlMlSgFnntGH7wLWR5xPF2R-pWod_0YdhWpH-9wqbvC6f66qBT8WWph10&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "tipoTatoo": "preto e branco",
+      "tamanhoTatoo": "10cm",
+      "preçoTatoo": "150.00",
+      "fotoTatoo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUAanLxw1oiz0J1FEUYP4wL8tezc34zXZ78g&usqp=CAU"
+    }
+  ],
+  "tatuadores": [
+    {
+      "id": 1,
+      "nomeTatuador": "Davi Silva",
+      "InstaTatuador": "@DaviTatoo",
+      "infoTatuador": [
+        "696.696.696-69",
+        "11/09/2001",
+        "Rua lixeira,1,Lixão"
+      ],
+      "idEstudio": 1
+    },
+    {
+      "id": 2,
+      "nomeTatuador": "Rodrigo Majins",
+      "InstaTatuador": "@RodMajTatoo",
+      "infoTatuador": [
+        "154.154.154-00",
+        "29/02/1996",
+        "Rua Jambreiro,4,Brioco"
+      ],
+      "idEstudio": 1
+    }
+  ],
+  "estudiosDeTatuagem": [
+    {
+      "id": 1,
+      "nomeEstudio": "Tatuadora Foda",
+      "EndereçoEstudio": [
+        "Rua tal,numero pi, bairro vrau,cidade vixh"
+      ],
+      "qtdTatuadores": "1",
+      "funcionamentoEstudio": "das 10h as 18H"
+    },
+    {
+      "id": 2,
+      "nomeEstudio": "Outro estudio de tatuagem",
+      "EndereçoEstudio": [
+        "Rua mau, numero x²+2,Bairro Matemática"
+      ],
+      "qtdTatuadores": "1",
+      "funcionamentoEstudio": "das 9h as 17H"
+    }
+  ]
+}
